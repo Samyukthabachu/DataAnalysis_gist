@@ -1,0 +1,39 @@
+    1  pwd
+    2  ls
+    3  rmdir GIST
+    4  pwd
+    5  ls
+    6  rmdir GIST
+    7  rm demo.txt
+    8  ls
+    9  rm file{1..10}.txt
+   10  ls
+   11  rm file{50..100}.txt
+   12  ls
+   13  rm clanguage{50..100}.cpp
+   14  rm *.py
+   15  ls
+   16  rm *.txt
+   17  ls
+   18  rm *.py
+   19  ls
+   20  nano myfile.txt
+   21  cat myfile.txt
+   22  nano myfile.txt
+   23  cat myfile.txt
+   24  echo "HELLO">MYFILE2.TXT
+   25  echo "hello">myfile.txt
+   26  cat myfile2.txt
+   27  eco {1..1000}>>myfile.txt
+   28  echo {1..1000
+   29  echo {1..1000}>>myfile3.txt
+   30  cat myfile3.txt
+   31  mv myfile3.txt myfile2.txt
+   32  cat my file2.txt
+   33  ls
+   34  cat myfile2.txt
+   35  ls
+   36  cp myfile2.txt myfile.txt
+   37  cat myfile2.txt
+   38  history
+   39  history >>history.txt
